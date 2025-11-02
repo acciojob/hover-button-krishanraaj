@@ -1,11 +1,11 @@
-/* Reset browser default button styling */
-button {
+/* /* Reset browser default button styling */
+/* button {
   all: unset;
   display: inline-block;
-}
+} */
 
 /* Required button styles */
-#btn {
+/* #btn {
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   border-radius: 5px;
@@ -13,11 +13,12 @@ button {
   padding: 10px 20px;
   text-align: center;
   cursor: pointer;
-}
+} */
 
 /* Hover state */
-#btn:hover {
+/* #btn:hover {
   background-color: yellow;
   color: black;
   border-radius: 30px;
-}
+} */
+ */
